@@ -6,11 +6,20 @@
   "license": "MIT",
   "private": false,
   "main" : [
-    "style.css",
-    "fonts/Stroke-Gap-Icons.eot",
-    "fonts/Stroke-Gap-Icons.svg",
-    "fonts/Stroke-Gap-Icons.ttf",
-    "fonts/Stroke-Gap-Icons.woff"
+    "css/settings.css",
+    "css/layers.css",
+    "css/navigation.css",
+    "js/jquery.themepunch.tools.min.js",
+    "js/jquery.themepunch.revolution.min.js",
+    "js/extensions/revolution.extension.actions.min.js",
+    "js/extensions/revolution.extension.carousel.min.js",
+    "js/extensions/revolution.extension.kenburn.min.js",
+    "js/extensions/revolution.extension.layeranimation.min.js",
+    "js/extensions/revolution.extension.migration.min.js",
+    "js/extensions/revolution.extension.navigation.min.js",
+    "js/extensions/revolution.extension.parallax.min.js",
+    "js/extensions/revolution.extension.slideanims.min.js",
+    "js/extensions/revolution.extension.video.min.js"
   ],
   "repository": {
     "type": "git",
