@@ -1,2 +1,1 @@
-# revolution-slider
 # revolt-slli

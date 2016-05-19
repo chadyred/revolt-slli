@@ -1,0 +1,19 @@
+{
+  "name": "revolt-slli",
+  "description": "revolt-slli",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chadyred/revolt-slli",
+  "license": "MIT",
+  "private": false,
+  "main" : [
+    "style.css",
+    "fonts/Stroke-Gap-Icons.eot",
+    "fonts/Stroke-Gap-Icons.svg",
+    "fonts/Stroke-Gap-Icons.ttf",
+    "fonts/Stroke-Gap-Icons.woff"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadyred/revolt-slli.git"
+  }
+}
