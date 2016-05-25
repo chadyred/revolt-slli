@@ -9,7 +9,7 @@
     "css/settings.css",
     "css/layers.css",
     "css/navigation.css",
-    "js/source/jquery.themepunch.tools.js",
+    "js/source/jquery.themepunch.tools.min.js",
     "js/source/jquery.themepunch.revolution.js",
     "js/extensions/source/revolution.extension.actions.js",
     "js/extensions/source/revolution.extension.carousel.js",
